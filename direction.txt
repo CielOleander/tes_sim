@@ -1,0 +1,9 @@
+URL: localhost:80/tes_sim/index.html
+
+File yang diubah/ditambahkan:
+1. index.html (mengubah salah satu feature dengan mahasiswa)
+2. daftar.php (cari mahasiswa masih belum berjalan) -> Halaman 1 (tabel dan input, delete)
+3. detail.php					    -> Halaman 2 (tabel dan edit, delete)
+4. edit_posting.php
+5. delete_posting.php
+6. mahasiswa_info.php (still not working)
